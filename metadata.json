@@ -1,0 +1,6 @@
+{
+  "name": "AeroChrono 3D Studio - Procedural Engineering & Design Lab",
+  "description": "Next-generation interactive 3D studio powered by Three.js featuring procedural multi-part engineering models, PBR studio lighting, exploded mechanical views, and real-time customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
